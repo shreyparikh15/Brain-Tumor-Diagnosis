@@ -13,7 +13,6 @@ __pycache__/
 Thumbs.db
 
 # Ignore model checkpoints if not needed
-*.h5
 *.ckpt
 
 # Ignore Jupyter notebook checkpoints
